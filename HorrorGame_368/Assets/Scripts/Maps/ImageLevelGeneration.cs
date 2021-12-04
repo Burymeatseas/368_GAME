@@ -9,7 +9,7 @@ public class ImageLevelGeneration : MonoBehaviour
 	public GameObject groundPrefab;
 	public GameObject wallPrefab;
 	
-    void Start()
+    private void Start()
     {
         Color[] pixels = levelImage.GetPixels();
 		
