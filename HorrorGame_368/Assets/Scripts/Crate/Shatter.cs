@@ -8,7 +8,7 @@ public class Shatter : MonoBehaviour
 	
 	public float MaxHealth =  50;
 	
-	float currentHealth;
+	public float currentHealth;
 	
     // Start is called before the first frame update
     void Start()
