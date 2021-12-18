@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5766874148381892901}
   m_Layer: 0
-  m_Name: FPSCharacter
+  m_Name: FPSCharacter_Unarmed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -348,7 +348,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 69a39945834dc6e49b8963037fc7d15f, type: 2}
+  - {fileID: 2100000, guid: b19f6924322dde64ea6a01e6b178759b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

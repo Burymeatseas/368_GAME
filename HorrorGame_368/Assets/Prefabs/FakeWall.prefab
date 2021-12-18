@@ -159,6 +159,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_Dungeon
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 98600b466bd434a1c98cee0d7dc1f003, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98600b466bd434a1c98cee0d7dc1f003, type: 3}
 --- !u!1 &7003007467442638202 stripped
@@ -171,6 +175,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 98600b466bd434a1c98cee0d7dc1f003, type: 3}
   m_PrefabInstance: {fileID: 7921488567201607723}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &6061327858866948786
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7003007467442638202}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 100, y: 100, z: 100}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!111 &198446793272616805
 Animation:
   m_ObjectHideFlags: 0
@@ -187,16 +204,3 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
---- !u!65 &6061327858866948786
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7003007467442638202}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 100, y: 100, z: 100}
-  m_Center: {x: 0, y: 0, z: 0}
