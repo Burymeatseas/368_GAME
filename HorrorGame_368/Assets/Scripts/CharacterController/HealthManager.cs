@@ -14,7 +14,7 @@ public class HealthManager : MonoBehaviour
 		HealthHome.transform.localScale = new Vector3(Health, 1f, .01f);
 		if(Health<=0)
 		{
-			SceneManager.LoadScene("Midterm");
+			SceneManager.LoadScene(1);
 		}
 		if(Health>100f)
 		{

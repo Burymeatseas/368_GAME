@@ -127,4 +127,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shatteredVersion: {fileID: 919132149155446097, guid: 4cd5178c693934276832c4757264c743, type: 3}
   MaxHealth: 50
-  currentHealth: 0
+  currentHealth: 50
