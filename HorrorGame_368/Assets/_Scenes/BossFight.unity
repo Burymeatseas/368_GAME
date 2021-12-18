@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.3587269, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -186,6 +186,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper (5)
@@ -255,6 +259,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d5176f1493bc493a9ed052cb005c2d5, type: 2}
     - target: {fileID: 919132149155446097, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
       propertyPath: m_Name
       value: OldFloor (2)
@@ -416,6 +424,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper (7)
@@ -485,6 +497,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d5176f1493bc493a9ed052cb005c2d5, type: 2}
     - target: {fileID: 919132149155446097, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
       propertyPath: m_Name
       value: OldFloor (3)
@@ -577,6 +593,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper (1)
@@ -646,6 +666,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper (6)
@@ -715,6 +739,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d5176f1493bc493a9ed052cb005c2d5, type: 2}
     - target: {fileID: 919132149155446097, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
       propertyPath: m_Name
       value: OldFloor (1)
@@ -784,6 +812,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper (2)
@@ -971,6 +1003,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper
@@ -1063,6 +1099,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d5176f1493bc493a9ed052cb005c2d5, type: 2}
     - target: {fileID: 919132149155446097, guid: fd9833e92bf34429dad58fcb8048b00d, type: 3}
       propertyPath: m_Name
       value: OldFloor
@@ -1201,6 +1241,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper (4)
@@ -1362,6 +1406,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 09c1c5c6653d54cf6a931d585b6d08b5, type: 2}
     - target: {fileID: 919132149155446097, guid: 223f265d3375248ada66a89524ee9a9a, type: 3}
       propertyPath: m_Name
       value: OldWallpaper (3)

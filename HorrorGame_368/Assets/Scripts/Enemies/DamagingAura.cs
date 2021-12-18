@@ -9,7 +9,7 @@ public class DamagingAura : MonoBehaviour
 	
 	void OnTriggerStay()
 	{
-		PlayerHealth.ApplyDamage(Damage * Time.deltaTime);
+        PlayerHealth.ApplyDamage(Damage * Time.deltaTime);
 	}
 	
 }
